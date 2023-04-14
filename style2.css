@@ -1,0 +1,40 @@
+div {
+  text-align: center;
+  overflow: hidden;
+  border: 7px double blue;
+  width:500px;
+  padding:10px;
+  background: blue;
+  border-radius: 50px;
+}
+
+img{
+ width :200;
+ border :9px outset DimGray;
+ padding: 10px;
+}
+
+h1{
+  font-family: Impact;
+  font-size: 50pt;
+  text-decoration: double underline overline;
+  margin: 10px;
+  color: brown;
+}
+
+h3{
+  font-family: impact;
+  font-size: 30pt;
+  margin: 10px;
+  color: yellow;
+}
+
+p{
+  font-family: cursive;
+  font-size: 15pt;
+  margin: 10px;
+}
+h3>span{
+  font-family: serif;
+}
+

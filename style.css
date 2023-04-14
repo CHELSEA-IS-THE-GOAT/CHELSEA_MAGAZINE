@@ -1,0 +1,43 @@
+body{
+  background: linear-gradient(to bottom right, lemonchiffon, white);
+  padding: 15px;
+  font-family: monospace;
+}
+
+h1{
+  background: blue;
+  text-align: center;
+  color: white;
+  border: 2px dotted white;
+  Padding: 5px;
+}
+h2{
+  background: blue;
+  text-align: center;
+  color: white;
+  border: 2px dotted white;
+  padding: 5px;
+}
+.column1{
+  float: left;
+  width: 48%;
+}	
+
+.column2{
+  float: right;
+  width: 48%;
+}	
+
+img{max-width: 100%;}
+
+.photo{box-shadow: 4px 4px 4px gray;
+  transform: rotate(10deg);
+}
+
+.item{
+  border: 2px dotted blue;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+
